@@ -1,11 +1,17 @@
-## The Odin Project - Ruby on Rails
-## Project: Associations - Private Events
+
+
+# The Odin Project: [Private Events](https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations)
+
+## Live version of project :  [Private Events](#)
+
+
+## Description:
 
 * NOTE: This is in NO WAY a comprehensive walkthrough of the steps I used in the build, its just a rough set of notes for myself on the latest Odin Project app, Private Events. I've missed loads of bits out, most of it is html stuff, the main flow at the start is all in the correct order following the steps on the site so you could follow along, but at points things wouldn't work so you would need to dig into the code to find the missing things from these notes. Apart from that, it all works.
 
 * Our Objective:
 
-    We have to build a site similar to a Eventbrite which allows users to create events and then manage user signups. I must be honest, I decided to cheat a little with this project and completely miss out the first part which was to setup the sign-in mechanism. I started with a copy and paste from our build of the rails tutorial up-to chapter 10. The reason I did this was I wanted to create a proper full featured application that I could use in production, so i wanted to save some time.
+    We have to build a site similar to an [Eventbrite](https://www.eventbrite.com/) which allows users to create events and then manage user signups. I must be honest, I decided to cheat a little with this project and completely miss out the first part which was to setup the sign-in mechanism. I started with a copy and paste from our build of the rails tutorial up-to chapter 10. The reason I did this was I wanted to create a proper full featured application that I could use in production, so i wanted to save some time.
 
 ### Features:
 
@@ -1160,3 +1166,20 @@ To run console use next command => rails c
     e = Event.all (Grab all the events)
     e.upcoming ( list all upcoming events )
     e.past ( list all past events )
+    
+    
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License:
+
+* See [LICENSE.md](https://github.com/Anna-Myzukina/facebook-clone/blob/master/LICENSE.md) for details.
+
+## Authors:
+
+👤 **Author1**
+* [Anna Muzykina](https://github.com/Anna-Myzukina)
+
+👤 **Author2**
+* [Emogene Akwiri](https://github.com/Elukoye)
